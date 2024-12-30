@@ -36,7 +36,7 @@
     "@types/node": "^22.0.0",
     "@types/ws": "^8.2.0",
     "autocannon": "^7.3.0",
-    "concurrently": "^8.0.1",
+    "concurrently": "^9.1.1",
     "docsify-cli": "^4.4.3",
     "eslint": "^9.9.1",
     "fastify": "^5.0.0-alpha.4",
